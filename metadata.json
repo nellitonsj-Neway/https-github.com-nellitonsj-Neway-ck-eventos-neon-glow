@@ -1,0 +1,8 @@
+{
+  "name": "Remix CK Eventos - Neon Glow",
+  "description": "Site para CK Eventos - Experiências inesquecíveis com bares temáticos, efeitos neon, coquetelaria premium e entretenimento para eventos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
